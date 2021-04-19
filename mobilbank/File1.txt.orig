@@ -1,0 +1,7 @@
+First commit
+Second commit on branch1
+<<<<<<< HEAD
+New Commit from branch 4
+=======
+Conflict making line change
+>>>>>>> master

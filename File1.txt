@@ -1,3 +1,0 @@
-First commit
-Second commit on branch1
-New commit from Master(this should make a conflict)
